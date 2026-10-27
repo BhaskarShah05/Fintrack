@@ -13,6 +13,13 @@ export interface FileAnalysisResult {
   forensics: PyMuPDFMetadata;
   elaAnalysis: ELATamperAnalysis;
   duplicateCheck: DuplicateCheckResult;
+  imageDetails?: {
+    width: number;
+    height: number;
+    aspectRatio: string;
+    colorSpace: string;
+    format: string;
+  };
 }
 
 export function formatBytes(bytes: number, decimals = 1): string {
