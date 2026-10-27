@@ -1,6 +1,8 @@
 # FinTrack · KOSH-GUARD
 ### AICTE Statutory Joint Lien Endorsement & Security Deposit Governance Architecture
 
+**Live Demo**: [https://fintrack-mu-bay.vercel.app](https://fintrack-mu-bay.vercel.app)
+
 FinTrack (KOSH-GUARD) is an institutional-grade security deposit governance and lifecycle management system designed for AICTE statutory compliance. It provides complete oversight over Fixed Deposit Receipts (FDRs), joint lien endorsements, automated maturity alerts, dual-truth banking reconciliation, and immutable cryptographic audit logging under Approval Process Handbook (APH 2024–27) standards.
 
 ---
